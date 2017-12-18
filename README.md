@@ -6,7 +6,9 @@
 用vue封装一个自定义的checklist组件, 目的一是为了补充巩固一些vue的知识点, 二是梳理写一个组件的思路
 
 ### 效果展示
-
+<img width="260" height=“374” src="https://github.com/ALiaoo/vangogh-ui/blob/master/screenshot/1.jpeg"></img>
+<img width="260" height=“374” src="https://github.com/ALiaoo/vangogh-ui/blob/master/screenshot/2.jpeg"></img>
+<img width="260" height=“374” src="https://github.com/ALiaoo/vangogh-ui/blob/master/screenshot/3.jpeg"></img>
 
 ### 思路
 *   确定组件效果,都有哪些功能.checklist的主要功能点有
